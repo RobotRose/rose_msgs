@@ -1,0 +1,16 @@
+int32 angle_FL
+int32 angle_FR
+int32 angle_BL
+int32 angle_BR
+float32 velocity_FL
+float32 velocity_FR
+float32 velocity_BL
+float32 velocity_BR
+int32 diff_FL
+int32 diff_FR
+int32 diff_BL
+int32 diff_BR
+float32 dT_FL
+float32 dT_FR
+float32 dT_BL
+float32 dT_BR
