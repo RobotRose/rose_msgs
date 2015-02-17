@@ -1,5 +1,5 @@
 # Goal
-rose21_platform/wheelunit_states    requested_state
+rose_base_msgs/wheelunit_states     requested_state
 ---
 # Result
 int32                               return_code
