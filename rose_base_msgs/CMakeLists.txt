@@ -9,6 +9,8 @@ find_package(catkin REQUIRED COMPONENTS
 		std_msgs 
 	)
 
+set(CMAKE_CXX_FLAGS "-std=c++0x -g") #! @todo OH [IMPR]: Remove -g flag in release?
+
 # Generate messages in the 'msg' folder
 add_message_files( FILES
   battery_state.msg
