@@ -1,0 +1,5 @@
+# one_arm_autonomous_request: Name of the 1 arm action to perform.
+string do_one_arm_autonomous_request
+---
+#one_arm_autonomous_response: Indicates if the robot completed the autonomous action.
+bool do_one_arm_autonomous_response
