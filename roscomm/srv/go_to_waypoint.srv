@@ -1,0 +1,6 @@
+# go_to_waypoint_request: Name of the waypoint to go to.
+string name
+geometry_msgs/PoseStamped pose
+---
+#go_to_waypoint_response: Indicates if the robot reached the target.
+bool go_to_waypoint_response
